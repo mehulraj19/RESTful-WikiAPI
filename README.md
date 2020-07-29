@@ -4,9 +4,9 @@ In this I have cam accross, what makes an API a API and what are the rules we ne
 I have build a simple RESTful API and has done CRUD operations on both '/mainPage' and '/mainPage/:parameter'. 
 This is really helpful since one can directly use this to build a project without being confused on these simple yet powerful operations.
 
-My Actual Data
+# My Actual Data
 
-This is done when get function is called as:localhost:3000/articles
+This is done when get function is called as: <ins>localhost:3000/articles</ins>
 [
     {
         "_id": "5f21c78b323810302bebd7cc",
