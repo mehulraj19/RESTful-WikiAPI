@@ -86,4 +86,4 @@ This is after operation:<br />
     "content": "CSS stands for Cascading Style Sheets. This is used to style our HTML webPage. "<br />
 }<br />
 <br />
-Delete functions for both are there. You can directly save this to your PC and can try these!!!<br />
+****************************Delete functions for both are there. You can directly save this to your PC and can try these!!!<br />
