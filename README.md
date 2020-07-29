@@ -57,7 +57,7 @@ If we give post function as: localhost:<ins>3000/articles</ins><br />
 ]<br />
 <br />
 If we give put function as: localhost:<ins>3000/articles/CSS</ins><br />
-************This will make changes in the place in the whole object****************************<br />
+*******************************This will make changes in the place in the whole object****************************<br />
 This is before put operation:<br />
    {<br />
         "_id": "5f21c78b323810302bebd7cf",<br />
